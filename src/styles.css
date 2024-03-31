@@ -4,6 +4,6 @@
 @tailwind utilities;
 
 :root {
-    --primary-color: white;
+    --primary-color: black;
     --accent-color: rgb(60, 35, 200);
 }
