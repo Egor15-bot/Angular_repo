@@ -4,6 +4,6 @@
 @tailwind utilities;
 
 :root {
-    --primary-color: violet;
-    --accent-color: orange;
+    --primary-color: white;
+    --accent-color: rgb(60, 35, 200);
 }
